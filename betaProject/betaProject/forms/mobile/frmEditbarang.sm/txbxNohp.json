@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s09e859d9ecd4bfeaf6220d10f77bf73",
+    "_text_": "08123456xxxxxx",
+    "_top_": {
+        "type": "string",
+        "value": "817dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txbxNohp",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ee380d5d9fd546f7aeeda2e7197789d9",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexScrollContainer0h41a714eb79a40",
+    "pf": "frmEditbarang",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

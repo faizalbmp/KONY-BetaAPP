@@ -1,0 +1,16 @@
+{
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "45454500",
+  "border_style": "rc",
+  "border_type": 0,
+  "border_width": 2,
+  "font_color": "555555ff",
+  "font_name": "Helvetica",
+  "font_size": 140,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "sa2363d9562f4d34ba072f66e915c5d3",
+  "wType": "TextArea"
+}

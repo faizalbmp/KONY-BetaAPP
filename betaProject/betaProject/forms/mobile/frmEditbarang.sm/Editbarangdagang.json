@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": "9%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s263acf935cd431582183c5e94778305",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlexContainer0a6dce3e5a94543": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j603ffdb0d0c448ab774357430639241",
+                "srcKUID": "f85dcb0e22d0496b95b1b3138a20b3df",
+                "wType": "FlexContainer"
+            }
+        },
+        "Image0ae6ccd9d21c84d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f0c89f82347d4fe1b53fe26b6f2d05f0",
+                "srcKUID": "h6b3e4f83bbf4dd99fb1b65fcf3bf99a",
+                "wType": "Image"
+            }
+        },
+        "Label0a29ed324e16840": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f749753358e74e68b39ae62e281c5945",
+                "srcKUID": "b105bb7988634e31b4c4ad3a4f5100fe",
+                "wType": "Label"
+            }
+        },
+        "barEditbarangdagang": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ee0f60ebb7af40ada3ece0a5c86c3019",
+                "srcKUID": "e73f9543ebd64422a87fc83c7c47ad4f",
+                "wType": "FlexContainer"
+            },
+            "top": {
+                "type": "string",
+                "value": "0dp"
+            }
+        }
+    },
+    "id": "Editbarangdagang",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ee0f60ebb7af40ada3ece0a5c86c3019",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexScrollContainer0h41a714eb79a40",
+    "pf": "frmEditbarang",
+    "snaptogrid": true,
+    "sourceUserWidget": "e73f9543ebd64422a87fc83c7c47ad4f",
+    "wType": "UserWidgetInstance"
+}

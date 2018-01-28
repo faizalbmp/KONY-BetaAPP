@@ -1,0 +1,28 @@
+{
+    "AS_Image_bf46c6dc906049119bab27495b4539de": {
+        "id": "AS_Image_bf46c6dc906049119bab27495b4539de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onDownloadComplete_a7b618a5e5ef470e87b0e0b737298112",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEditbarang",
+            "formKUID": "ic3196802061439fa5831942b75429c2",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

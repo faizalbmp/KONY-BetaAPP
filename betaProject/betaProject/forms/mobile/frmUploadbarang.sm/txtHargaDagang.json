@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "ex Rp. 1.000.000",
+    "_skin_": "s95c6ed342c44ed0bb0ebad4275ee828",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "638dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "93%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txtHargaDagang",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "f381a595c77a4cd3a4362123cb819022",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexScrollContainer0j0519c54dcbd43",
+    "pf": "frmUploadbarang",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

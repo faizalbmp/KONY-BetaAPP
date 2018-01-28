@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": "9%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s1040bbe2bc6495daecb4a8b2a10526d",
+    "_top_": "0dp",
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlexContainer0b1fd16176ed645": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "acdaba1a5dd34974aa3fb860fbd9c0f4",
+                "srcKUID": "j9839d91e87b4075a52b0da3a360098f",
+                "wType": "FlexContainer"
+            }
+        },
+        "Image0ff214e1c5d9c49": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "eca427368abc4bfb9788e2ee5a82b43c",
+                "srcKUID": "f694a2d8e6bb4cd3a016f650ccc624b3",
+                "wType": "Image"
+            }
+        },
+        "Label0e9d5663ebba24e": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cdae3ee6fc1146e6a0e640622ce3f81b",
+                "srcKUID": "efcd1e37f9324fc896da4643d2b42e2c",
+                "wType": "Label"
+            }
+        },
+        "UserBar": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ddc7b7b593b1401ab8c3056c331df675",
+                "srcKUID": "fb46e7b38b994b8eaccb7652342a6042",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "id": "UserBar1",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "d4bf3c0c6a634766ae08ccc93004f082",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexContainer0jbce64c3428947",
+    "pf": "flxEditProfileU",
+    "snaptogrid": true,
+    "sourceUserWidget": "fb46e7b38b994b8eaccb7652342a6042",
+    "wType": "UserWidgetInstance"
+}

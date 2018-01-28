@@ -1,0 +1,144 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0a117776515bd46": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "picture_1.png"
+            },
+            "Label0ga19872ce9734f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rp. 1.200.000"
+            },
+            "Label0jabca0bb779345": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Keris Condong Campur"
+            }
+        },
+        {
+            "Image0a117776515bd46": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "picture_1.png"
+            },
+            "Label0ga19872ce9734f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rp. 1.800.000"
+            },
+            "Label0jabca0bb779345": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Keris Jalak Sangu Tumpeng"
+            }
+        },
+        {
+            "Image0a117776515bd46": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "picture_1.png"
+            },
+            "Label0ga19872ce9734f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rp.900.000 "
+            },
+            "Label0jabca0bb779345": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Keris Kyai Yuyu Rumpung"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "h0ef0e9518d4431182193167d7d19ec6",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "sgmtBarangjual",
+    "ide_onRowClick": "AS_Segment_c279ef20366e450d8d42a422309f2bc3",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b9b73b95812542afafc80a885f024504",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexContainer0i51b6fef38cb40",
+    "pf": "flxListitem",
+    "retainselection": false,
+    "rowTemplateId": "h0ef0e9518d4431182193167d7d19ec6",
+    "rowcounter": 2,
+    "rowfocusskin": "s0d60e62dde14d53bb4b638c566b3a16",
+    "rowskin": "sa8e964a82d0487aba3e47bb5905bb37",
+    "rowtemplate": "FBox0b8562c33719e46",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd3d53b8354c400287534e9541aa410e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0ce2fa6ec3c704f": "FlexContainer0ce2fa6ec3c704f",
+        "Image0a117776515bd46": "Image0a117776515bd46",
+        "Label0ga19872ce9734f": "Label0ga19872ce9734f",
+        "Label0jabca0bb779345": "Label0jabca0bb779345"
+    },
+    "zindex": 1
+}

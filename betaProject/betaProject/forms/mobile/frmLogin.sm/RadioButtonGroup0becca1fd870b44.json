@@ -1,0 +1,94 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRadio",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "9.76%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s01a37c2ad2c4262ab5410e263ef7dbd",
+    "_top_": {
+        "type": "number",
+        "value": "370"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "26.08%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "63.94%"
+    },
+    "containerweight": 100,
+    "groupcells": false,
+    "id": "RadioButtonGroup0becca1fd870b44",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "b4368705ddef40859331d14d524b089c",
+    "masterdata": [
+        [
+            "pembeli",
+            "Buyer"
+        ],
+        [
+            "penjual",
+            "Seller"
+        ]
+    ],
+    "name": "kony.ui.RadioButtonGroup",
+    "parent": "FlexContainer0cfc35eaf8d7f42",
+    "pf": "frmLogin",
+    "selectedkey": "pembeli",
+    "selectedkeyvalue": [
+        "pembeli",
+        "Buyer"
+    ],
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "RadioButtonGroup",
+    "widgetalignment": 5,
+    "zindex": 1
+}

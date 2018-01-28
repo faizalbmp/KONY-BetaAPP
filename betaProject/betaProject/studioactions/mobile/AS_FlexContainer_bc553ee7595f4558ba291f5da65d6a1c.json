@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_bc553ee7595f4558ba291f5da65d6a1c": {
+        "id": "AS_FlexContainer_bc553ee7595f4558ba291f5da65d6a1c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_af8100a42e33423899399fe4ad07c224",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickReference",
+            "display": "onClickReference",
+            "inputparams": [{
+                "name": "url",
+                "value": "\"https://id.wikipedia.org/wiki/Batik\""
+            }],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

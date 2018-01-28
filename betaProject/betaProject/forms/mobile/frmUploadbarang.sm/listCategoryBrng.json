@@ -1,0 +1,89 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6dc99db15064b5e99f62ba583653831",
+    "_top_": {
+        "type": "string",
+        "value": "332dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "android": {
+        "viewType": 0
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmUploadbarang",
+        "ispercent": "",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "groupcells": false,
+    "id": "listCategoryBrng",
+    "info": null,
+    "iphone": {
+        "viewType": 0
+    },
+    "isvisible": true,
+    "kuid": "adc065ab68944dd8acfab1e8eee21ad8",
+    "masterdata": [
+        [
+            "lb1",
+            "Pakaian"
+        ],
+        [
+            "lb2",
+            "Kerajinan Tangan"
+        ],
+        [
+            "lb3",
+            "Mainan Tradisional"
+        ],
+        [
+            "lb4",
+            "Kain"
+        ],
+        [
+            "lb5",
+            "Tas"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "FlexScrollContainer0j0519c54dcbd43",
+    "pf": "frmUploadbarang",
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

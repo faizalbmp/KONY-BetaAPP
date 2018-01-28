@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_j2c0716d54c742d5a45bf185e46015a8": {
+        "id": "AS_FlexContainer_j2c0716d54c742d5a45bf185e46015a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAkunP",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e212b4f4bc544f5581d9e4704b5df118"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j1f5275b9faf4587ad8d07c4cfd296fc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "loadDetailPenjual",
+            "display": "loadDetailPenjual",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

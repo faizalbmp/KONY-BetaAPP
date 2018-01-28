@@ -1,0 +1,131 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "categoryImage1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "kerajinan_tangan_perak.jpg"
+            },
+            "categoryImage2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "gambar_topeng.jpg"
+            }
+        },
+        {
+            "categoryImage1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "noken_indonesia.jpg"
+            },
+            "categoryImage2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "barang_antik.JPG"
+            }
+        },
+        {
+            "categoryImage1": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "membatik.jpg"
+            },
+            "categoryImage2": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "47%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {
+        "rowFocusSkin": "s0d60e62dde14d53bb4b638c566b3a16"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "fc045f263b734b12bde2c933fd5d371a",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "categorySegment",
+    "ide_onRowClick": "AS_Segment_g6d1b8e6ba764c86997ee98e7690176f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f2b1f28585c640b89b8a8defc304928d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "homeContainer",
+    "pf": "frmHomeUser",
+    "retainselection": false,
+    "rowTemplateId": "fc045f263b734b12bde2c933fd5d371a",
+    "rowcounter": 2,
+    "rowskin": "sa8e964a82d0487aba3e47bb5905bb37",
+    "rowtemplate": "FBox0i57abcacb6f944",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd3d53b8354c400287534e9541aa410e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "categoryImage1": "categoryImage1",
+        "categoryImage2": "categoryImage2"
+    },
+    "zindex": 2
+}

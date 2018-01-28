@@ -1,0 +1,30 @@
+{
+    "AS_Button_fbf6d86970a24735a559761219cd287b": {
+        "id": "AS_Button_fbf6d86970a24735a559761219cd287b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_efc4e5a07c5c4dcb884182d2f8deae8f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickHome",
+            "display": "onClickHome",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onClick_b1804344192742029bdac67c642cfedf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addHistory",
+            "display": "addHistory",
+            "inputparams": [{
+                "name": "formId"
+            }],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

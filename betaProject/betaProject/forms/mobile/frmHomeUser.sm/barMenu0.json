@@ -1,0 +1,134 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": "100%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "se051fa99597498fb45d0c7fff86bbec",
+    "_top_": "0dp",
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Image0ad25e1db309b46": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "efe895cb8e344e0f82ac87faf6b5728c",
+                "srcKUID": "c5dc2d3530bd41148fcf6409f9c10e72",
+                "wType": "Image"
+            }
+        },
+        "Image0e890d2776a3c48": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d13bbc9ab03540d7bd906ce817f0268a",
+                "srcKUID": "bd2cf5e44db744e8b5d87189e2b07d2c",
+                "wType": "Image"
+            }
+        },
+        "akunButton": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a7cf8072cdef43e6a66978529a636856",
+                "srcKUID": "hf3cebdaeaab4a3ba9a5e75aac36986f",
+                "wType": "Button"
+            }
+        },
+        "barMenu": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "bd71c74ff33f481bb9a4384dcd3dc977",
+                "srcKUID": "c9279572dfa14b2ead2729f92826a7dc",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxBalik": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d2839bebb41243e0979f65da6ebd58bb",
+                "srcKUID": "i3d74544282a433196a079ed4d75737b",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c1210093435f4a72aeadc7218ec0cee1",
+                "srcKUID": "b65cf4dc27b94d6c898d05b19f9f7bf4",
+                "wType": "FlexContainer"
+            }
+        },
+        "homeBarContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e0074a699ef04aab9f5f4a60145b5ef2",
+                "srcKUID": "jd0b73a4ae5a4d60a0e532642192faef",
+                "wType": "FlexContainer"
+            }
+        },
+        "homeButton": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ada6c2ae642545479c9371213fe5f620",
+                "srcKUID": "c0ac80f72b0b41a0a2de37862ff75c17",
+                "wType": "Button"
+            }
+        },
+        "homeSearchContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b1fa2b7c06f941fd91b4ce5d5daf7f2f",
+                "srcKUID": "d60fb524384144cd9847b62b96cc12a7",
+                "wType": "FlexContainer"
+            }
+        },
+        "orderButton": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "baa1e91d198e4286a0fb6e7a665d8dd6",
+                "srcKUID": "if2a6b7f5c4948deaf58f609951fa665",
+                "wType": "Button"
+            }
+        },
+        "txbxSearch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d8ab88457efc4d49bdc382520466bc48",
+                "srcKUID": "a76cf23af6324031aed850f0d0ecdf3d",
+                "wType": "TextField"
+            }
+        }
+    },
+    "id": "barMenu0",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "bd71c74ff33f481bb9a4384dcd3dc977",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "homeContainer",
+    "pf": "frmHomeUser",
+    "snaptogrid": true,
+    "sourceUserWidget": "c9279572dfa14b2ead2729f92826a7dc",
+    "wType": "UserWidgetInstance"
+}

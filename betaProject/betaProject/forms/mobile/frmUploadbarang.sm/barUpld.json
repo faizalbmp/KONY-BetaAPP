@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": "9%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s79b27223a994f129bdb24c69074b58d",
+    "_top_": "0dp",
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlexContainer0cafbc6a84a8f40": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i068bb604ffd40cab14e82f51a1a21cc",
+                "srcKUID": "i32243c759a24c758de55aa45e6ac834",
+                "wType": "FlexContainer"
+            }
+        },
+        "Image0ibec41a928d04f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j91567828f8249f791114fd7023e2a54",
+                "srcKUID": "j1e0b00ad833422da50552a684eb6660",
+                "wType": "Image"
+            }
+        },
+        "Label0d821e569503c4f": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "af72f00e22c24640a3271e042761e3c4",
+                "srcKUID": "b3b8745f4ba948a691738ebfdf641f1f",
+                "wType": "Label"
+            }
+        },
+        "barUpldBrng": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ga7751bf3549459a8679da92e518ccc0",
+                "srcKUID": "ab74e2de6ee7488cb65bdbfde735e0e5",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "id": "barUpld",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "be39e756b2db47f695ba70aaeaa81c3b",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexScrollContainer0j0519c54dcbd43",
+    "pf": "frmUploadbarang",
+    "snaptogrid": true,
+    "sourceUserWidget": "ab74e2de6ee7488cb65bdbfde735e0e5",
+    "wType": "UserWidgetInstance"
+}

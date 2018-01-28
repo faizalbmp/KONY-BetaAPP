@@ -1,0 +1,34 @@
+{
+    "AS_Image_a22675c80cc84d55b3972ff5da1f6c3d": {
+        "id": "AS_Image_a22675c80cc84d55b3972ff5da1f6c3d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "contextObj": {
+            "name": "flxListitem",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e34217e218fa407f803d55c872114539"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___gbd999036247437b85b48e457c4339f0",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEditbarang",
+            "formKUID": "ic3196802061439fa5831942b75429c2",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

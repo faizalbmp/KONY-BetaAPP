@@ -1,0 +1,34 @@
+{
+    "AS_FlexContainer_feea453ece8e416cb586f97959ec73c7": {
+        "id": "AS_FlexContainer_feea453ece8e416cb586f97959ec73c7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmHomepenjual",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b9062243e3c04e789ea953b6ddd8ae33"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a2a35a7a8ad14e8bbc35cae51cd423ea",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "flxListitem",
+            "formKUID": "e34217e218fa407f803d55c872114539",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

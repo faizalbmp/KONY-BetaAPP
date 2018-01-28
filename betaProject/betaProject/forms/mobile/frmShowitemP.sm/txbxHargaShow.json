@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "6%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "23dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "ex Rp. 150.000",
+    "_skin_": "s3745e7c9acb4ea083746bd1a055e218",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "331dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "txbxHargaShow",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "a987b3304b5249f99380306b49b13e0c",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexScrollContainer0bf91f4777a7f4a",
+    "pf": "frmShowitemP",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

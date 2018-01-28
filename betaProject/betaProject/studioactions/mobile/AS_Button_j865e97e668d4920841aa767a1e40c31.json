@@ -1,0 +1,27 @@
+{
+    "AS_Button_j865e97e668d4920841aa767a1e40c31": {
+        "id": "AS_Button_j865e97e668d4920841aa767a1e40c31",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSignup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c58ad7d04bfc4b9d9239b125c22d9179"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g230067ec7604f66bc7c55dd98479296",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createAccount",
+            "display": "createAccount",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

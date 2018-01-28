@@ -1,0 +1,24 @@
+{
+    "AS_Image_cbba12effa97468585274415d067e326": {
+        "id": "AS_Image_cbba12effa97468585274415d067e326",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "contextObj": {
+            "name": "FBox0f0b2edee038f43",
+            "type": "templates",
+            "platform": null,
+            "KUID": "ef934805f9dc4f67ba9a48b9be9fdc92"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

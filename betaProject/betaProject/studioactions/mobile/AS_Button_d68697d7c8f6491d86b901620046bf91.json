@@ -1,0 +1,28 @@
+{
+    "AS_Button_d68697d7c8f6491d86b901620046bf91": {
+        "id": "AS_Button_d68697d7c8f6491d86b901620046bf91",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditProfileP",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hf4ffada342945aa92118127bef0bdbe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___d929f8aedc3b499182f0fd989bf5df6b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmEditPasswordP",
+            "formKUID": "ed73ff774a1148de8103c3c63dcc00b4",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

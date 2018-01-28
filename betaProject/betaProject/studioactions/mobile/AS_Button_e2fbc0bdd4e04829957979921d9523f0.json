@@ -1,0 +1,27 @@
+{
+    "AS_Button_e2fbc0bdd4e04829957979921d9523f0": {
+        "id": "AS_Button_e2fbc0bdd4e04829957979921d9523f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fe990c3cef9444ac971768066e83ed70"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f90ad2f7b30440be8465c341ab64d762",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cekTypeAccount",
+            "display": "cekTypeAccount",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa07be202c904e1e858b3c9fbd8f6f71",
+    "_text_": "Save",
+    "_top_": {
+        "type": "string",
+        "value": "568dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "28%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s642b868c38b46259e24bd2c7e72599e",
+    "id": "btnSave",
+    "ide_onClick": "AS_Button_dc78ede927134bb291d9e8e810a066d6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d5c3dd7b8fc34f0ca6a41ff8db802e17",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0jbce64c3428947",
+    "pf": "frmEditProfileP",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_e414300cd27644828586bff25dd4b982": {
+        "id": "AS_Button_e414300cd27644828586bff25dd4b982",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmEditPasswordP",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ed73ff774a1148de8103c3c63dcc00b4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___i275ab7fde7c4ef29c426902206aaab8",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAkunP",
+            "formKUID": "e212b4f4bc544f5581d9e4704b5df118",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

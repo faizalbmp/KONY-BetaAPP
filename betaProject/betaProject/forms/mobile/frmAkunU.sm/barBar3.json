@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": "100%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "se051fa99597498fb45d0c7fff86bbec",
+    "_top_": "0dp",
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlexContainer0cafdb3217ecc45": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f0b1db71b1c84a299990767d7f97c12f",
+                "srcKUID": "if78df993d7a4612b1e9c7094711c928",
+                "wType": "FlexContainer"
+            }
+        },
+        "FlexContainer0cc2445edeb3c4d": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d4137bca42234dd29c10a63346a1c248",
+                "srcKUID": "ea9c001f1fac40eeb2d39f140df8f5e3",
+                "wType": "FlexContainer"
+            }
+        },
+        "Image0i5e1d9f610ac42": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ja7fd59c27644e3c855e4f71dadcc572",
+                "srcKUID": "c3d929dae91f4d07b3f5ac036caddd47",
+                "wType": "Image"
+            }
+        },
+        "barBar": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "f4ac965882b14fbbaca60ad72c9fba98",
+                "srcKUID": "f8676dc1d25649a68dafbab2eb5b21af",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "id": "barBar3",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "f4ac965882b14fbbaca60ad72c9fba98",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmAkunU",
+    "pf": "frmAkunU",
+    "snaptogrid": true,
+    "sourceUserWidget": "f8676dc1d25649a68dafbab2eb5b21af",
+    "wType": "UserWidgetInstance"
+}

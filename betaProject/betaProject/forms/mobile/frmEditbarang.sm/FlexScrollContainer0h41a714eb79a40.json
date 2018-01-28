@@ -1,0 +1,79 @@
+{
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s3084c5bd54943ae882b2e5ed486eb9d",
+    "_top_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "flxGambarjualan",
+        "btnGanti",
+        "txtNameEdit",
+        "txbxHargaedit",
+        "txarDeskripsiedit",
+        "txarAlamat",
+        "listKategori",
+        "btnSaveEdit",
+        "lblName",
+        "lblHarga",
+        "lblDeskripsi",
+        "lblCategory",
+        "lblAddress",
+        "lblPhonenumber",
+        "txbxNohp",
+        "Editbarangdagang"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexScrollContainer0h41a714eb79a40",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b8f6b0f5dee0483984ff4c353017ec17",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "frmEditbarang",
+    "pf": "frmEditbarang",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

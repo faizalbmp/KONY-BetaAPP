@@ -1,0 +1,121 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "ImageDagang": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "picture_1.png"
+            }
+        },
+        {
+            "ImageDagang": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "picture_1.png"
+            }
+        },
+        {
+            "ImageDagang": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "picture_1.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "78.13%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "ef934805f9dc4f67ba9a48b9be9fdc92",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "sgmntImageDagang",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "e1112ded3fce4e7e8188ce891057cb8b",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "fxlImageDagang",
+    "pf": "frmShowitemP",
+    "retainselection": false,
+    "rowTemplateId": "ef934805f9dc4f67ba9a48b9be9fdc92",
+    "rowcounter": 2,
+    "rowfocusskin": "s0d60e62dde14d53bb4b638c566b3a16",
+    "rowskin": "sa8e964a82d0487aba3e47bb5905bb37",
+    "rowtemplate": "FBox0f0b2edee038f43",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd3d53b8354c400287534e9541aa410e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 950,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "ImageDagang": "ImageDagang"
+    },
+    "zindex": 1
+}

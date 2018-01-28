@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5760310b44d4beeb5dca37965fa00f8",
+    "_text_": "OK",
+    "_top_": {
+        "type": "string",
+        "value": "316dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s2ce02ed58b141a19f59e819c8b2306e",
+    "id": "btnOKChangePassU",
+    "ide_onClick": "AS_Button_a28fb8ce7caa4e1fb84bfb57af177e3b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f78e68971ee04704882e6951918dae9d",
+    "name": "kony.ui.Button",
+    "parent": "flxEditAkunU",
+    "pf": "frmEditPasswordU",
+    "wType": "Button",
+    "zindex": 1
+}

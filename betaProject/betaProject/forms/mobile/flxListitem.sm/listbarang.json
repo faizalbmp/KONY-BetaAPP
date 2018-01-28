@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": "9%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s986d6b1f4b249ea9a15bcc0a12883a6",
+    "_top_": "0dp",
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "Image0a1b8804a6ba140": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i40be8554a704ddf98b97022bf8dc09e",
+                "srcKUID": "f37cc566a258436ab8959a7b6130f144",
+                "wType": "Image"
+            }
+        },
+        "Label0c25b37882d9049": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dbb80b9fbc8a472595d75231d75cb928",
+                "srcKUID": "f34ea1861366419db555073abc897c05",
+                "wType": "Label"
+            }
+        },
+        "flxBack": {
+            "__events__": {
+                "ide_onTouchStart": "AS_FlexContainer_e73f1b1f234a4f80ae2db3d4c775e231"
+            },
+            "__info__": {
+                "kuid": "j34826e1faa84e18b23ddaf1e771ab57",
+                "srcKUID": "fc0c989fd30a4dd5ab7bb611f1b4a7f3",
+                "wType": "FlexContainer"
+            }
+        },
+        "listbarangH": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "gb229ed9e4cd46b4be8674b1de7398f9",
+                "srcKUID": "f0967e368611466189a62cec90c5f9a0",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "id": "listbarang",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "gb229ed9e4cd46b4be8674b1de7398f9",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "FlexContainer0i51b6fef38cb40",
+    "pf": "flxListitem",
+    "snaptogrid": true,
+    "sourceUserWidget": "f0967e368611466189a62cec90c5f9a0",
+    "wType": "UserWidgetInstance"
+}

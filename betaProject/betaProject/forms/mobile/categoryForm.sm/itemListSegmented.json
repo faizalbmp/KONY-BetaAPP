@@ -1,0 +1,191 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "ItemListPriceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rp. 1k"
+            },
+            "itemListDescriptionLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description Of Item 1"
+            },
+            "itemListImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "itemListLocationLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Location of Item 1"
+            },
+            "itemListNameLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "item Name 1"
+            }
+        },
+        {
+            "ItemListPriceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rp. 2k"
+            },
+            "itemListDescriptionLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description Of Item 2"
+            },
+            "itemListImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "itemListLocationLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Location of Item 2"
+            },
+            "itemListNameLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "item Name 2"
+            }
+        },
+        {
+            "ItemListPriceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rp. 3k"
+            },
+            "itemListDescriptionLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description Of Item 3"
+            },
+            "itemListImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "itemListLocationLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Location of Item 3"
+            },
+            "itemListNameLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Item Name 3"
+            }
+        },
+        {
+            "ItemListPriceLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Rp. 4k"
+            },
+            "itemListDescriptionLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Description Of Item 4"
+            },
+            "itemListImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "itemListLocationLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Location of Item 4"
+            },
+            "itemListNameLabel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Item Name 4"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "a44b44f0bba64eeca8144e30bdb214c9",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "itemListSegmented",
+    "ide_onRowClick": "AS_Segment_c079c532fc1a4fa983c44faf4425a611",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "hebf8d9256c541239dd602aa9b258d12",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "categoryContainer",
+    "pf": "categoryForm",
+    "retainselection": false,
+    "rowTemplateId": "a44b44f0bba64eeca8144e30bdb214c9",
+    "rowcounter": 3,
+    "rowfocusskin": "s0d60e62dde14d53bb4b638c566b3a16",
+    "rowskin": "sa8e964a82d0487aba3e47bb5905bb37",
+    "rowtemplate": "CopyFBox0f8ea91fcac9d41",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd3d53b8354c400287534e9541aa410e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "ItemListPriceLabel": "ItemListPriceLabel",
+        "itemListDescriptionLabel": "itemListDescriptionLabel",
+        "itemListImage": "itemListImage",
+        "itemListLocationLabel": "itemListLocationLabel",
+        "itemListNameLabel": "itemListNameLabel"
+    },
+    "zindex": 1
+}
